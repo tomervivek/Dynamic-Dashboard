@@ -1,2 +1,5 @@
-# Dynamic-Dashboard
-User can change navigation and multiple layouts of page.
+Run the following command to install the necessary dependencies:
+npm install
+
+After the dependencies are installed, start the application with:
+npm start
